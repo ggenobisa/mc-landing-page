@@ -1,0 +1,166 @@
+body {font-family: 'Roboto', sans-serif; background-color: #000;}
+
+.banner-div {padding: 0;height: 670px;}
+.banner-mobile {display: none;}
+.banner-desktop {width: 100%;}
+
+.top-right {position: absolute;top: 100px;right: 225px;text-align: right;}
+.top-right h1 {color: #ffff;font-weight: 900;font-size: 90px;margin-top: 30px;}
+.top-right h3 {color: #F8C632;color: #F8C632;font-size: 36px;font-weight: 600;}
+.top-right h4 {color: #F8C632;margin: 20px 0;font-weight: 400;}
+.top-right h4 span {border: 1px solid;padding: 10px;}
+.top-right button {color: #ffff;background-color: #15C652;font-size: 30px;padding: 10px 41px;border: none;margin: 15px 0px;}
+.top-right h5 {color: #ffff;margin-top: 10px; font-size: 18px;letter-spacing: 0.5px;}
+.top-right .yel-txt {color: #F8C632;}
+
+.content-div {text-align: right;display: block;padding-right: 225px;}
+.content-div .gamble-div {display: inline-flex;}
+.content-div .gamble-div h5 {color: white;font-size: 14px;margin-top: 10px;padding-right: 10px;}
+.content-div .gamble-div  img {width: 35px;}
+.content-div span {color: #F8C632;}
+
+
+.container-steps {margin-top: 45px;}
+.container-steps .steps .outer-box-steps {display: inline-flex;}
+.steps {display: inline-flex;margin-left: 80px;}
+.steps .div-box-3,
+.steps .div-box-2,
+.steps .div-box-1 {border: 1px solid #fff;padding: 10px 25px 0px 25px;border-radius: 20px;height: 75px;}
+.steps .div-box-3 p,
+.steps .div-box-2 p, 
+.steps .div-box-1 p{color: #ffff;text-align: right;}
+.steps p span {color: #F8C632;}
+.steps .number-div {height: 75px;display: inline-flex;}
+.steps .number-div p {font-size: 80px;color: white;margin-bottom: 0;margin-left: 15px;margin-right: 20px;font-weight: 900;line-height: 0.8;}
+.container-steps .fas.fa-angle-left {font-size: 120px;color:#F8C632;line-height: 0.6;margin-right: 20px;}
+
+.steps-mob {display: none;}
+
+
+
+.payments-prov {text-align:center;margin-top: 10px;}
+.payment-provider-div {margin-top: 20px;margin-bottom: 20px;}
+.content-div .payment-provider-div .payments-prov img {margin-right: 20px;}
+.content-div .payment-provider-div .payments-prov img:last-child {margin-right: 0;}
+.payment-provider-div ul {display: inline-flex;justify-content: center;margin: 0;padding: 0;align-items: center;}
+.payment-provider-div ul li {margin: 0px 15px 10px 15px;list-style: none;}
+.payment-provider-div ul li img {width: 130px;}
+
+.bonus-div {background-color:#1E1D1D;padding-right: 225px;padding-left: 150px;}
+.bonus-div p {text-align: right;}
+
+.other-content-div {padding-right: 225px;padding-left: 150px;}
+.other-content-div p {text-align: right;}
+
+
+.regulation-policy-div {color: #ffff;padding-top: 25px;padding-left: 110px;}
+.regulation-policy-div p {font-size: 15px;}
+.regulation-policy-div p a {color: #F8C632;}
+
+.game-prov-div ul {display: flex;justify-content: center;margin: 0;padding: 0;align-items: center;}
+.game-prov-div ul li {margin: 0px 15px 10px 15px;list-style: none;}
+
+#arabic-html {font-family: Arial, Helvetica, sans-serif;}
+#arabic-html .content-div,
+#arabic-html .bonus-div, 
+#arabic-html .other-content-div{padding-left:200px;}
+
+#arabic-html .steps {margin-left: 95px;}
+#arabic-html .steps .div-box-2 {padding: 10px 35px 0px 35px;}
+#arabic-html .steps .div-box-1 {padding: 10px 30px 0px 70px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .banner-div {background: url(../img/banner-desktop.jpg) top center no-repeat;background-size: cover;}
+
+body {font-family: 'Roboto', sans-serif; text-align: right;}
+
+
+
+.content-div {text-align: right;}
+.content-div .gamble-div {display: inline-flex;}
+.content-div .gamble-div h5 {color: #ffff;margin-top: 5px;}
+.content-div .gamble-div img {width: 35px;margin-left: 10px;}
+.content-div span {display: block; color: #F8C632; margin-top: 5px;}
+
+.content-div .payment-provider-div .payments-prov img {margin-right: 20px;}
+.content-div .payment-provider-div .payments-prov img:last-child {margin-right: 0;}
+.payment-provider-div ul {display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    align-items: center;}
+.payment-provider-div ul li {margin: 0px 10px 10px 10px;
+    list-style: none;}
+
+.bonus-div {background-color:#1E1D1D;}
+.regulation-policy-div {color: #ffff;padding-top: 25px;}
+.regulation-policy-div p {font-size: 15px;}
+.regulation-policy-div p a {color: #F8C632;}
+
+.game-prov-div ul {display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    align-items: center;}
+.game-prov-div ul li {margin: 0px 10px 10px 10px;
+    list-style: none;} */
+
+
+
+

@@ -1,0 +1,155 @@
+@media screen and (max-width: 767px) {
+
+    .banner-div {padding: 0;height: auto;}
+
+    .mobile-logo {width: 80px;padding: 5px 0;margin: 0 auto;display: block;}
+    .desktop-logo {display: none;}
+    .container-steps {display: none;}
+    .banner-desktop {display: none;}
+    .banner-mobile {display: block;width: 100%;}
+
+    .payment-provider-div ul,
+    .game-prov-div ul {flex-wrap: wrap !important;}
+
+    .bonus-div,
+    .other-content-div {padding: 5px 30px;}
+    .regulation-policy-div p {text-align: center !important;margin-bottom: 0;}
+    .game-prov ul li img {width: 90px;}
+    .game-prov ul li:nth-child(3) img,
+    .game-prov ul li:nth-child(4) img,
+    .game-prov ul li:nth-child(5) img,
+    .game-prov ul li:nth-child(6) img {width: 20px;}
+    .game-prov-div ul li {margin: 0 5px;}
+    .game-prov {margin-bottom: 20px;}
+
+    .payment-provider-div ul li {margin: 0px 10px 10px 10px;}
+    .payment-provider-div ul li img {width: 100px;}
+
+    .regulation-policy-div {padding-left: 0;}
+
+    .top-right {position: relative;top: -70px;right: 0;height: 265px;text-align: center;}
+    .top-right img {display: none;}
+    .top-right h1 {margin-top: 0; font-size: 45px;}
+    .top-right h3 {font-size: 24px;}
+    .top-right h4 {font-size: 18px;margin-top: 25px;}
+    .top-right button {font-weight: 600;font-size: 30px;padding: 10px 63px;margin: 15px 0px;}
+    .top-right h5 {margin-top: 10px;font-size: 14px;}
+    .top-right h4 span {padding: 10px 40px;}
+
+    .steps-desk {display: none;}
+    .steps-mob {display: block;}
+
+    .steps-mob {display: block;text-align: center;margin-top: 20px;}
+    .steps-mob .steps {margin-left: 0;display: block;}
+    .steps-mob .steps .outer-box-steps {margin-left: 25px;margin-bottom: 12px;}
+    .steps-mob .steps .outer-box-steps .div-box-3 {height: unset;border-radius: 10px;padding: 15px 40px 5px 40px;}
+    .steps-mob .steps .outer-box-steps .div-box-3 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    .steps-mob .steps .outer-box-steps .div-box-2 {height: unset;border-radius: 10px;padding: 15px 40px 5px 40px;}
+    .steps-mob .steps .outer-box-steps .div-box-2 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    .steps-mob .steps .outer-box-steps .div-box-1 {height: unset;border-radius: 10px;padding: 15px 20px 5px 20px;}
+    .steps-mob .steps .outer-box-steps .div-box-1 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    .steps-mob .steps .number-div {height: unset;}
+    .steps-mob .steps .number-div p {margin-left: 15px;line-height: 1;}
+    .steps-mob .steps .number-div i {display: none;}
+
+    .content-div {text-align: center !important;padding-right: 15px !important;}
+    .content-div span {font-size: 14px;}
+
+    /*ARABIC*/
+    #arabic-html .mobile-logo {width: 80px;padding: 5px 0;margin: 0 auto;display: block;}
+    #arabic-html .desktop-logo {display: none;}
+    #arabic-html .container-steps {display: none;}
+    #arabic-html .banner-desktop {display: none;}
+    #arabic-html .banner-mobile {display: block;width: 100%;}
+
+    #arabic-html .payment-provider-div ul,
+    #arabic-html .game-prov-div ul {flex-wrap: wrap !important;}
+
+    #arabic-html .bonus-div,
+    #arabic-html .other-content-div {padding: 5px 30px;}
+    #arabic-html .regulation-policy-div p {text-align: center !important;margin-bottom: 0;}
+    #arabic-html .game-prov ul li img {width: 90px;}
+    #arabic-html .game-prov ul li:nth-child(3) img,
+    #arabic-html .game-prov ul li:nth-child(4) img,
+    #arabic-html .game-prov ul li:nth-child(5) img,
+    #arabic-html .game-prov ul li:nth-child(6) img {width: 20px;}
+    #arabic-html .game-prov-div ul li {margin: 0 5px;}
+    #arabic-html .game-prov {margin-bottom: 20px;}
+
+    #arabic-html .payment-provider-div ul li {margin: 0px 10px 10px 10px;}
+    #arabic-html .payment-provider-div ul li img {width: 100px;}
+
+    #arabic-html .regulation-policy-div {padding-left: 0;}
+
+    #arabic-html .top-right {position: relative;top: -70px;right: 0;height: 265px;text-align: center;}
+    #arabic-html .top-right img {display: none;}
+    #arabic-html .top-right h1 {margin-top: 0; font-size: 30px;}
+    #arabic-html .top-right h3 {font-size: 24px;}
+    #arabic-html .top-right h4 {font-size: 18px;margin-top: 25px;}
+    #arabic-html .top-right button {font-weight: 600;font-size: 30px;padding: 10px 63px;margin: 15px 0px;}
+    #arabic-html .top-right h5 {margin-top: 10px;font-size: 14px;}
+    #arabic-html .top-right h4 span {padding: 10px 40px;}
+
+    #arabic-html .steps-desk {display: none;}
+    #arabic-html .steps-mob {display: block;}
+
+    #arabic-html .steps-mob {display: block;text-align: center;margin-top: 20px;}
+    #arabic-html .steps-mob .steps {margin-left: 0;display: block;}
+    #arabic-html .steps-mob .steps .outer-box-steps {margin-left: 25px;margin-bottom: 12px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-3 {height: unset;border-radius: 10px;padding: 15px 65px 5px 65px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-3 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-2 {height: unset;border-radius: 10px;padding: 15px 45px 5px 45px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-2 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-1 {height: unset;border-radius: 10px;padding: 15px 40px 5px 35px;}
+    #arabic-html .steps-mob .steps .outer-box-steps .div-box-1 p {text-align: center;padding-right: 15px;padding-left: 15px;}
+    #arabic-html .steps-mob .steps .number-div {height: unset;}
+    #arabic-html .steps-mob .steps .number-div p {margin-left: 15px;line-height: 1;}
+    #arabic-html .steps-mob .steps .number-div i {display: none;}
+
+    #arabic-html .content-div {text-align: center !important;padding-right: 15px !important; padding-left: 15px !important;}
+    #arabic-html .content-div span {font-size: 14px;}
+
+}
+
+@media screen and (max-width: 376px) {
+    .steps-mob .steps .outer-box-steps .div-box-3,
+    .steps-mob .steps .outer-box-steps .div-box-2 {padding: 15px 35px 5px 35px;}
+    .steps-mob .steps .outer-box-steps .div-box-1 {padding: 15px 15px 5px 15px;}
+
+    .payment-provider-div ul li {margin: 0px 6px 10px 6px;}
+}
+
+@media screen and (max-width: 361px) {
+    .top-right h1 {font-size: 40px;}
+    .top-right h3 {font-size: 22px;}
+    
+    .steps-mob .steps .outer-box-steps .div-box-3,
+    .steps-mob .steps .outer-box-steps .div-box-2 {padding: 15px 20px 5px 20px;}
+    .steps-mob .steps .outer-box-steps .div-box-1 {padding: 15px 0px 5px 0px;}
+}
+
+@media screen and (max-width: 321px) {
+
+    .top-right {top: -50px;}
+    .top-right h1 {font-size: 35px;}
+    .top-right h3 {font-size: 18px;}
+    .top-right h4 span {padding: 10px 20px;}
+    .top-right button {padding: 10px 40px;}
+    .top-right h5 {font-size: 13px;}
+
+    .steps-mob .steps .outer-box-steps {margin-left: 15px;}
+    .steps-mob .steps .outer-box-steps .div-box-3, 
+    .steps-mob .steps .outer-box-steps .div-box-2 {padding: 15px 10px 5px 10px;}
+    .steps-mob .steps .outer-box-steps .div-box-1 p {padding-right: 5px;padding-left: 5px;}
+}
+
+
+
+
+
+
+
+
+
+
+
